@@ -1,0 +1,85 @@
+* 
+{
+  margin: 0;
+  padding: 0;
+}
+body {
+    text-align: center; 
+    min-width: 100 vh;
+    font-family: "Playfair Display", serif;
+   
+}
+header {
+    
+    width: 900px;
+    height: 99px;
+    text-align: center;
+    margin: auto;
+    }
+nav li {
+    display: inline;
+    margin-right: 60px;
+    margin-left: 60px;
+    text-align: center;
+    list-style: none;
+
+
+}
+
+a {
+text-transform: uppercase;
+color: #000000;
+text-decoration: none;
+
+
+}
+nav {
+  text-align: center;
+  font-size: 14px;
+  text-transform: uppercase;
+  margin-bottom: 103px;
+  margin-top: 49px;
+  font-weight: bold;
+  text-transform: none;
+  list-style: none;
+  /* margin-left: 240px; */
+
+  
+ }
+.wrapper {
+    width: 960px;
+    margin: 0 auto;
+}
+.card {
+display:inline-block;
+width: 420px;
+margin-right: 56px;
+vertical-align: top;
+text-align: left;
+}
+p {
+    margin-top: 38px;
+    margin-bottom: 148px;
+    font-size: 14px;
+}
+button{
+    width: 160px;
+    height: 60px;
+    margin-left: -52px;
+    margin-top: -git54px;
+    margin-bottom: 54px;
+}
+h4 {
+    margin-top: 31px;
+    margin-bottom: 33px;
+    text-transform: uppercase;
+}
+h3{
+    line-height: 23px;
+    font-size: 30px;
+
+}
+
+a:hover{
+    color: #03a9f4;
+}
