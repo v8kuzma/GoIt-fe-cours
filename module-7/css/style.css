@@ -10,9 +10,47 @@ box-sizing: inherit;
 }
 
 
-@import "/fonts.css";
+/* FONTS */
 
 
+/* @import "./fonts.css"; */
+
+@font-face {
+  font-family: "Montserrat";
+  src: url(../fonts/montserrat-v13-latin-700.woff),
+       url("../fonts/montserrat-v13-latin-700.woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+   font-family: "Montserrat";
+   src:url("../fonts/montserrat-v13-latin-regular.woff"),
+       url(../fonts/montserrat-v13-latin-regular.woff2);
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+  font-family: "Pt-sans";
+    src: url(../fonts/pt-sans-v10-latin-700.woff),
+         url(../fonts/pt-sans-v10-latin-700.woff2);
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+@font-face {
+  font-family: "Pt-sans";
+    src: url(../fonts/pt-sans-v10-latin-regular.woff),
+         url(../fonts/pt-sans-v10-latin-regular.woff2);
+    
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+/* FONTS */
 
 
 .container{
