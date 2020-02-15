@@ -1,0 +1,26 @@
+@media (min-width: 766px){
+    .container{
+        padding-top: 40px;
+        width: 748px;
+    }
+    .header{
+        height: 700px;
+    }
+    .header__space{
+        height: auto;
+    }
+    .header__title{
+        margin-top: 140px;
+        font-size: 52px;
+    }
+    .header__paragraph{
+        font-size: 24px;
+        padding: 1em 0;
+    }
+}
+@media(min-width: 958px){
+    .container{
+        width: 940px;
+    }
+
+}
